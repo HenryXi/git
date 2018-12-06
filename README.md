@@ -1,4 +1,4 @@
-# Git Tutorial
+# Git tutorial
 Git is a distributed revision-control system.
 
 * [git show remote url](http://www.henryxi.com/git-show-remote-url)
