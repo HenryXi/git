@@ -10,3 +10,4 @@ Git is a distributed revision-control system.
 * [git config user name email](http://www.henryxi.com/git-config-user-name-email)
 * [git checkout new branch and rename](http://www.henryxi.com/git-checkout-new-branch-and-rename)
 * [git auto push when commit](http://www.henryxi.com/git-auto-push-when-commit)
+* [git sync remote tag to local](http://www.henryxi.com/git-sync-remote-tag-to-local)
