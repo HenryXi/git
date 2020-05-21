@@ -13,3 +13,4 @@ Git is a distributed revision-control system.
 * [git sync remote tag to local](http://www.henryxi.com/git-sync-remote-tag-to-local)
 * [git change remote url](http://www.henryxi.com/git-change-remote-url)
 * [git quick clone](http://www.henryxi.com/git-quick-clone)
+* [git bisect example](http://www.henryxi.com/git-bisect-example)
