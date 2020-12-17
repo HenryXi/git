@@ -14,4 +14,4 @@ Git is a distributed revision-control system.
 * [git change remote url](http://www.henryxi.com/git-change-remote-url)
 * [git quick clone](http://www.henryxi.com/git-quick-clone)
 * [git bisect example](http://www.henryxi.com/git-bisect-example)
-* [git refname refs heads master not found]()
+* [git refname refs heads master not found](http://www.henryxi.com/git-refname-refs-heads-master-not-found)
