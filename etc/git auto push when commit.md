@@ -3,6 +3,9 @@ Add following function in your `~/.bashrc` file then you can use one command to 
 ```
 gcp ()
 {
+    if [ ! $1 ]; then
+        $1='this is auto commit'
+    fi
     git add -A && git commit -m "$1" && git push
 }
 ```
